@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "食卓",
+  "base_artist": "なとり",
+  "createdAt": "2026-02-07T00:20:22.552278Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "食卓",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/01_食卓_tricot.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "食卓",
+      "artist": "なとり",
+      "has_synced": true,
+      "path": "select/02_食卓_なとり.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "食卓",
+      "artist": "なとり",
+      "has_synced": false,
+      "path": "select/pl_01_食卓_なとり.txt"
+    }
+  ]
+}
